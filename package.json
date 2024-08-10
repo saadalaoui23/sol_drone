@@ -23,7 +23,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://github.com/saadalaoui23/sol_drone",
+    "homepage": "https://saadalaoui23.github.io/sol_drone",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
 

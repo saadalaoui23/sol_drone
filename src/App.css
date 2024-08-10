@@ -1,0 +1,75 @@
+/*Login*/
+.Login{
+  min-height: 100vh;
+}
+.s1 {
+  top:51%;
+  left:8px;
+  transform: translateY(-50%);
+}
+.s2 {
+  top: 51%;
+  left:8px;
+  transform: translateY(-50%);
+}
+
+.form-control::placeholder {
+  color: #aaa;
+  padding-left: 10px; 
+}
+.bg{
+  background-color: #4e2703;
+background-image: linear-gradient(14deg, #4e2703 0%, #8e4f0b 50%, #f9a633 100%);
+
+}
+
+.Login::p1{
+min-width: 100vw;
+}
+
+
+.img-1 {
+  background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  width: 70%;
+  height: 100vh;
+  border-radius: 0% -50% -50% 0%;
+  clip-path: polygon(0% 0%, 50% 0%, 40% 100%, 0% 100%); /* Découpe l'image en triangle */
+}
+.formulaire{
+  width:30vw;
+   background-Color:whitesmoke;
+  padding:5% 2% 5% 2%;
+  border-radius: 2% 2% 2% 2% ;
+}
+@media(max-width: 1349px)and(min-width:945px){
+  .formulaire{
+      min-width:50vw
+  }
+}
+@media(max-width: 945px){
+  .formulaire{
+      min-width:50vw
+  }}
+  .T2{
+      margin: 0% 0% 7% 0% 
+  }
+/*register*/
+.Register{
+  min-height: 100vh;
+}
+.formulaire1{
+width:30vw;
+ background-Color:whitesmoke;
+padding: 2% 2% 2% 2% ;
+margin: 5% 5% 5% 5%;
+border-radius: 2% 2% 2% 2% ;
+}
+@media(max-width: 1349px)and(min-width:945px){
+.formulaire1{
+    min-width:50vw
+}
+}
+@media(max-width: 945px){
+.formulaire1{
+    min-width:50vw
+}}

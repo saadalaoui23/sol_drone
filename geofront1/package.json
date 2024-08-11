@@ -26,7 +26,6 @@
     "homepage": "https://saadalaoui23.github.io/sol_drone",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
